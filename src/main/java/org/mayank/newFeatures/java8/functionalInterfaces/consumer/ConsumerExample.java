@@ -1,4 +1,4 @@
-package org.mayank.java8.functionalInterfaces.consumer;
+package org.mayank.newFeatures.java8.functionalInterfaces.consumer;
 
 import java.util.function.Consumer;
 

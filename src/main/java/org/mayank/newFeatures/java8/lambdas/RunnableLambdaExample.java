@@ -1,5 +1,9 @@
-package org.mayank.java8.lambdas;
+package org.mayank.newFeatures.java8.lambdas;
 
+/*
+    Runnable is a functional Interface which has a run() method and this runnable implementation is used to run a thread.
+     If we want to use it we need to implement the run() method.
+ */
 public class RunnableLambdaExample {
 
     public static void main(String[] args) {
@@ -27,13 +31,14 @@ public class RunnableLambdaExample {
 
 
         /*
-        With Java 8 lambda
-        () -> {}
+            With Java 8 lambda
+            () -> {}
 
-        My Notes::
-        Since the runnable interface has only one method that needs to be implemented, so
-        we can simply do it with lambda as the compiler can easily understand that what else
-        will you be implementing.
+            My Notes::
+            Since the runnable interface has only one method that needs to be implemented, so
+            we can simply do it with lambda as the compiler can easily understand that what else
+            will you be implementing.
+            The compiler knows that it is a Runnable by looking at the data type on LHS
          */
 
         // Way 1

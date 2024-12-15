@@ -1,4 +1,4 @@
-package org.mayank.java8.lambdas;
+package org.mayank.newFeatures.java8.lambdas;
 
 import java.util.Comparator;
 
