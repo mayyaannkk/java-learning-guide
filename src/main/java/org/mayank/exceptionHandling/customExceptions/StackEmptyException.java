@@ -1,7 +1,0 @@
-package org.mayank.exceptionHandling.customExceptions;
-
-public class StackEmptyException extends Exception {
-    public StackEmptyException(String message) {
-        super(message);
-    }
-}
