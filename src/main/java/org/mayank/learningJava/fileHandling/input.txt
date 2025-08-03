@@ -1,0 +1,2 @@
+This is the input text to be processes.
+Take in the file as input and capatalize all the characters and write it to output.txt file.

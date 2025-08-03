@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-public class PredicateDemo {
+public class PredicateUsingObj {
     public static void main(String[] args) {
         List<Person> personList = new Person().generateListOfPersons();
 
