@@ -1,4 +1,4 @@
-package org.mayank.learningJava.java8.supplier;
+package org.mayank.learningJava.java8.functionalInterfaces.supplier;
 
 import java.util.function.Supplier;
 

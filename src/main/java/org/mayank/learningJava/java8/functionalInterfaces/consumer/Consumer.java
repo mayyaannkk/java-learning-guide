@@ -1,4 +1,4 @@
-package org.mayank.learningJava.java8.consumer;
+package org.mayank.learningJava.java8.functionalInterfaces.consumer;
 
 import java.util.function.BiConsumer;
 

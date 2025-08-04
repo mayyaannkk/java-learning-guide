@@ -1,4 +1,4 @@
-package org.mayank.learningJava.java8.predicate;
+package org.mayank.learningJava.java8.functionalInterfaces.predicate;
 
 import org.mayank.utils.Person;
 

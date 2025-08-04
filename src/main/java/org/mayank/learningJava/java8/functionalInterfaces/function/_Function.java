@@ -1,4 +1,4 @@
-package org.mayank.learningJava.java8.function;
+package org.mayank.learningJava.java8.functionalInterfaces.function;
 
 import java.util.function.BiFunction;
 import java.util.function.Function;
