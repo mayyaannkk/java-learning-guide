@@ -3,14 +3,14 @@ package org.mayank.learningJava.java8.functionalInterfaces.function;
 import java.util.function.BiFunction;
 import java.util.function.Function;
 
-public class _Function {
+public class FunctionSimple {
     public static void main(String[] args) {
         int increment = incrementByOne(1);
         System.out.println("=== OLD ===");
         System.out.println(increment);
 
-        int increment2 = incrementByOneFunction.apply(1);
         System.out.println("=== NEW ===");
+        int increment2 = incrementByOneFunction.apply(1);
         System.out.println(increment2);
 
         System.out.println("=== Function Chaining ===");
